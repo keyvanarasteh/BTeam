@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "9519d02f7060da6122e052f04a7f5d7b14cb95c4cfda36b9539e3dd3604fc4ac"
+build_start_time: [1671439309, 113449096]
+build_end_time: [1671439442, 307389974]
+inputs:
+  "/Users/dr.void/Documents/developement/isu_team/BTeam/netflix/macos/Flutter/GeneratedPluginRegistrant.swift": [1671439129, 84687948]
+  "/Users/dr.void/Documents/developement/isu_team/BTeam/netflix/macos/Runner/AppDelegate.swift": [1671433137, 65506458]
+  "/Users/dr.void/Documents/developement/isu_team/BTeam/netflix/macos/Runner/MainFlutterWindow.swift": [1671433137, 69582462]
